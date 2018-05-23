@@ -16,7 +16,7 @@ nav {
 
 a:link { color:#ffffff; } /* unvisited */
 a:visited { color:#ffffff; } /* visited */
-a:hover { color:#ffffff; } /* mouse over */
+a:hover { color:orange; } /* mouse over */
 a:active { color:#ffffff; } /* selected */
 
 a{
